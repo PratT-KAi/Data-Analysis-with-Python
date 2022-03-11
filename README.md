@@ -6,8 +6,8 @@ A beginner friendly course for data analysis in python.
 
 1. Intro to NumPy
 2. Intro to Pandas
-3. Data CLeaning   
->     a. Handling Missing Data     
+3. Data CLeaning 
+>     a. Handling Missing Data 
 >     b. CLeaning Not Null Values        
 4. Reading Data from other sources   
 >    a. From csv and txt files    
